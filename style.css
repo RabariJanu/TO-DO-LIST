@@ -1,0 +1,38 @@
+body {
+   
+    background-color: #d74949;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background-color: #7a5353;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    margin: 8px 0;
+    border-bottom: 1px solid #a48686;
+  }
+  
+  button {
+    background-color: #154da642;
+    border: none;
+    padding: 8px;
+  }
+  
